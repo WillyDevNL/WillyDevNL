@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ea6596&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;Developer,;HTML,+CSS,+LUA,+FIVEM;Made+with+love..<3;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ea6596&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;Developer;HTML,+CSS,+LUA;This+was+crafted+with+love..<3;"></a>
 </p>
 
 
@@ -18,7 +18,7 @@
 ---
 <br><br>
 
-I am a developer. I have experience with HTML, CSS, LUA, FIVEM but I'm always willing to learn new things! I am 16 years old and I live in the Belguim. </a>
+I am a developer. I have experience with HTML, CSS, LUA, WORDPRESS but I'm always willing to learn new things! I am 16 years old and I live in the Belguim. </a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/819276465618419763"> <img src="https://discord.c99.nl/widget/theme-2/819276465618419763.png" alt="contact mee">
