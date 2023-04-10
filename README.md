@@ -41,9 +41,9 @@ I am a developer. I have experience with HTML, CSS, LUA, FIVEM but I'm always wi
 
 - **Softwares and Tools**:
     
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Discord](https://img.shields.io/discord/1006915882129297498?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge)
 
 
