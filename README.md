@@ -4,7 +4,7 @@
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=b03b59&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;Developer,;HTML,+CSS,+LUA,+FIVEM;Made+with+love..<3;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ea6596&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;Developer,;HTML,+CSS,+LUA,+FIVEM;Made+with+love..<3;"></a>
 </p>
 
 
@@ -60,9 +60,9 @@ I am a developer. I have experience with HTML, CSS, LUA, FIVEM but I'm always wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=willydevnl&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,000000" width="375"  alt="willydevnl"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=willydevnl&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ea6596&icon_color=&text_color=D3D3D3&bg_color=282a36" width="375"  alt="willydevnl"/>
 
-![WillyDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=willydevnl&show_icons=true&theme=dark)
+![WillyDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=willydevnl&show_icons=true&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=willydevnl&label=PROFILE+VIEWS)
 </a>
