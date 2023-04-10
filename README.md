@@ -32,20 +32,21 @@ I am a developer. I have experience with HTML, CSS, LUA, FIVEM but I'm always wi
 
 - **Languages**:
     
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![wordpress](https://img.shields.io/badge/WordPress-2272a8?style=for-the-badge&logo=WordPress&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5%20-e54d26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-264de4.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![FiveM](https://img.shields.io/badge/FiveM-ff7101?style=for-the-badge&logo=FiveM&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=Lua&logoColor=white)
-    ![FiveM](https://img.shields.io/badge/FiveM-ff911f?style=for-the-badge&logo=FiveM&logoColor=white)
+    ![lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white)
 
 - **Databases**:
 
-    ![MariaDB](https://img.shields.io/badge/MariaDB-%2300f.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+    ![MariaDB](https://img.shields.io/badge/MariaDB%20-c49a6c.svg?style=for-the-badge&logo=MariaDB&logoColor=black)
 
 - **Softwares and Tools**:
     
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-f0502b.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Discord](https://img.shields.io/discord/1006915882129297498?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge)
 
