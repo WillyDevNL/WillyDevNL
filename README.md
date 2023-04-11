@@ -16,7 +16,7 @@
 
 <br><br>
 
-I am a developer. I have experience with HTML, CSS, LUA, WORDPRESS but I'm always willing to learn new things! I am 16 years old and I live in the Belguim. </a>
+I possess expertise in HTML, CSS, LUA, and WordPress development, and I'm enthusiastic about exploring novel technologies. At present, I'm 16 years old and residing in Belgium. </a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/819276465618419763"> <img src="https://discord.c99.nl/widget/theme-2/819276465618419763.png" alt="contact mee">
