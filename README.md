@@ -33,7 +33,6 @@ I possess expertise in HTML, CSS, LUA, and WordPress development, and I'm enthus
     ![wordpress](https://img.shields.io/badge/WordPress-2272a8?style=for-the-badge&logo=WordPress&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5%20-e54d26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-264de4.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![FiveM](https://img.shields.io/badge/FiveM-ff7101?style=for-the-badge&logo=FiveM&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=Lua&logoColor=white)
 
