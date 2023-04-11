@@ -1,21 +1,19 @@
-<div id="header" align="center">
-        <img src=""/></div>
+<!-- <div id="header" align="center">
+        <img src=""/></div> -->
 
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ea6596&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;Developer;HTML,+CSS,+LUA;This+was+crafted+with+love..<3;"></a>
 </p>
+ 
+ <br><br>
 
-
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
+## <img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width ="25"><b> About me</b>
+<br>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
-
-- (**Willy**)
----
 <br><br>
 
 I am a developer. I have experience with HTML, CSS, LUA, WORDPRESS but I'm always willing to learn new things! I am 16 years old and I live in the Belguim. </a>
